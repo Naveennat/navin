@@ -1,3 +1,3 @@
 a = ('rat')
 print("rat")
-print("navin")
+print("navi")
