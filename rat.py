@@ -1,0 +1,2 @@
+a = ('rat')
+print("rat")
